@@ -5,4 +5,6 @@ A comprehensive analysis of a large dataset to uncover meaningful insights and t
 
 ### Dasboarding
 
+## EDA
 ![Alt_text](https://github.com/Rafi2401/youtube-song-analysis-with-powerbi/blob/main/EDA.jpg)
+![Alt_text](https://github.com/Rafi2401/youtube-song-analysis-with-powerbi/blob/main/Temporal%20Trends.jpg)
