@@ -5,7 +5,7 @@ A comprehensive analysis of a large dataset to uncover meaningful insights and t
 
 ## Dasboarding
 
-### EDA
+### Exploratory Data Analysis (EDA)
 ![Alt_text](https://github.com/Rafi2401/youtube-song-analysis-with-powerbi/blob/main/EDA.jpg)
 
 ### Content and Channel Analysis
