@@ -15,3 +15,4 @@ A comprehensive analysis of a large dataset to uncover meaningful insights and t
 ![Alt_text](https://github.com/Rafi2401/youtube-song-analysis-with-powerbi/blob/main/Temporal%20Trends.jpg)
 
 ### User Engagement Insights
+![Alt_text](https://github.com/Rafi2401/youtube-song-analysis-with-powerbi/blob/main/User%20Engagement%20Insights.jpg)
