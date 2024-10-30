@@ -9,4 +9,9 @@ A comprehensive analysis of a large dataset to uncover meaningful insights and t
 ![Alt_text](https://github.com/Rafi2401/youtube-song-analysis-with-powerbi/blob/main/EDA.jpg)
 
 ### Content and Channel Analysis
+![Alt_text](https://github.com/Rafi2401/youtube-song-analysis-with-powerbi/blob/main/Content%20and%20Channel%20Analysis.jpg)
+
+### Temporal Trends
 ![Alt_text](https://github.com/Rafi2401/youtube-song-analysis-with-powerbi/blob/main/Temporal%20Trends.jpg)
+
+### User Engagement Insights
